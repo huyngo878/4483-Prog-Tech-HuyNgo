@@ -1,6 +1,6 @@
-// Huy ngo
 // P10055
-// 4883 Programmming Techniques
+// 4883
+// Ngo
 // August 28, 2023
 
 #include <iostream>
