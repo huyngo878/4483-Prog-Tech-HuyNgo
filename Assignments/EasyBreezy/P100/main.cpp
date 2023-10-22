@@ -1,6 +1,9 @@
 #include <iostream>
 using namespace std;
 
+// if n is even, divide by 2
+// if n is odd, multiply by 3 and add 1
+// repeat until n becomes 1
 int main()
 {
   int i, j;
