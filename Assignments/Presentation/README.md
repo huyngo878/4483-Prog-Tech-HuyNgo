@@ -7,6 +7,6 @@ During its cleaning cycle, the robot should not cross or go through the obstacle
 
 
 <img src="image.png" alt="concept" width="200"/>
-### If the cordinates corresponds to a rectangle, use the radius to make a square, then subtract the area of the circle from the rectangle and divide by 4 to find the area of the corner that the robot will be unable reach. so if its a square or a rectangle just multiply that corner by 4 and subtract it from the total area of the rectangle/square.
+If the cordinates corresponds to a rectangle, use the radius to make a square, then subtract the area of the circle from the rectangle and divide by 4 to find the area of the corner that the robot will be unable reach. so if its a square or a rectangle just multiply that corner by 4 and subtract it from the total area of the rectangle/square.
 <img src="image2.png" alt="concept2" width="200"/>
 
