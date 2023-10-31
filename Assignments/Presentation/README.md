@@ -7,4 +7,5 @@ During its cleaning cycle, the robot should not cross or go through the obstacle
 
 
 <img src="image.png" alt="concept" width="200"/>
+<img src="https://github.com/huyngo878/4483-Prog-Tech-HuyNgo/tree/main/Assignments/Presentation/P12314/image.png" alt="concept2" width="200"/>
 
