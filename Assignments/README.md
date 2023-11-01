@@ -2,6 +2,7 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
+|    Easy Breezy   |  [Easy Breezy](https://github.com/huyngo878/4483-Prog-Tech-HuyNgo/tree/main/Assignments/EasyBreezy)           |     Easy Breezy Problems                   |
 |    A03|      [P10055](https://github.com/huyngo878/4483-Prog-Tech-HuyNgo/tree/main/Assignments/P10055)       |      Hashmat the brave warrior |
 | A04| [Easy Breezy](https://github.com/huyngo878/4483-Prog-Tech-HuyNgo/tree/main/Assignments/EasyBreezy) | Easy Breezy Problems|
 | A05| [P161](https://github.com/huyngo878/4483-Prog-Tech-HuyNgo/tree/main/Assignments/P161)| traffic light|
