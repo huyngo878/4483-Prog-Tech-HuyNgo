@@ -11,3 +11,11 @@ If the cordinates corresponds to a rectangle, use the radius to make a square, t
 
 <img src="image2.png" alt="concept2" width="200"/>
 
+Type of algorithmns i could use to solve this problem.
+1. Convex Hull? in case its a a weirdly shaped polygon
+2. Point-in-polygon Test? Determine whether a point is inside a polygon
+3. Line intersection determing where line is a basic operation in computational algorithms.
+4. Polygon Clipping? Calculates the exact area that the robot can clean
+5. Distance from point to line? Finds the closest edge of the polgygon froma given point
+6. Geometric optimzation? a whole bunch of math stuff......(im not good at)
+7. Voronoi Diagrams and Delaunay Triangulation? might help in solving this problem? (got this from chat gpt)
